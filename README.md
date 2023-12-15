@@ -1,4 +1,4 @@
-(<b> Hi there! </b> 
+<b> Hi there! </b> 
 
 My name is Barbara, I am from Warsaw, Poland.
 
