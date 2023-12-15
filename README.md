@@ -9,7 +9,7 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 
 
 <br><b>BACKEND</br>
-![brand-dotnet](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/62a90d39-23aa-4511-8d1c-20adbe3d049d)
+![brand-dotnet](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/62a90d39-23aa-4511-8d1c-20adbe3d049d width="230") 
 
 
 <br> FRONTEND </br>
