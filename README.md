@@ -1,4 +1,4 @@
-< b > Hi there! </ b > < img align = 'right' src = "https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/9615127c-1add-467f-a4ab-183e65c13e53" width = "230" ></ br >
+<b> Hi there! </b> <img align = 'right' src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/9615127c-1add-467f-a4ab-183e65c13e53" width="230" ></br>
 
 My name is Barbara, I am from Warsaw, Poland.
 
