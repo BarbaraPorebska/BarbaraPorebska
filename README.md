@@ -1,4 +1,4 @@
-![brand-javascript](<b> Hi there! </b> 
+(<b> Hi there! </b> 
 
 My name is Barbara, I am from Warsaw, Poland.
 
@@ -10,7 +10,10 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 
 <br><b>BACKEND</br>
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/fbef1ecb-1e37-4000-b5ef-5732183f2bab" alt="dotnet" width="50" height="50">
-<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/3a0cec06-b4e1-426d-b66e-d7889640b5d5" alt="havascript" width="50" height="50">
+<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/3a0cec06-b4e1-426d-b66e-d7889640b5d5" alt="javascript" width="50" height="50">
+<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/4e1288d9-1ef6-4266-be48-1f4b47dfd725)" alt="postgresql" width="50" height="50">
+
+
 
 
 
