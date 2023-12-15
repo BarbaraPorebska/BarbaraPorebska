@@ -9,7 +9,7 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 
 
 <br><b>BACKEND</br>
-![pngwing com(13)] (https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/a777caf5-2921-49ee-a02b-10be67cc3753)
+![pngwing com(13)](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/a777caf5-2921-49ee-a02b-10be67cc3753)
 ![pngwing com(12)](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/1bb92cee-7ad2-4281-9ffb-08c4076a1e74)
 ![pngwing com(32)](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/91fa1689-2e83-4620-a6d7-c12f04b6137e)
 ![pngwing com(29)](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/c33e5d71-7e15-4290-94f8-c4f3535f9bd9)
