@@ -1,4 +1,5 @@
 ![naglowek](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/64ef85dc-6781-4825-afc3-50d054959d29)
+
 <b> Hi there! </b> 
 
 My name is Barbara, I am from Warsaw, Poland.
