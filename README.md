@@ -9,11 +9,11 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 
 
 <br><b>BACKEND</br>
-<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/fbef1ecb-1e37-4000-b5ef-5732183f2bab" alt="dotnet" width="50" height="50">
+<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/17ed91fb-aa40-41a0-8cbb-f79f1f6dfee4" alt="dotnet" width="50" height="50">
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/3a0cec06-b4e1-426d-b66e-d7889640b5d5" alt="javascript" width="50" height="50">
-<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/4e1288d9-1ef6-4266-be48-1f4b47dfd725)" alt="postgresql" width="50" height="50">
+<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/4e1288d9-1ef6-4266-be48-1f4b47dfd725" alt="postgresql" width="50" height="50">
 
-
+![dotnet-logo-black-and-white]()
 
 
 
