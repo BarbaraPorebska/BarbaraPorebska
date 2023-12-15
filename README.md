@@ -9,6 +9,7 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 
 
 <br><b>BACKEND</br>
+<img src="![brand-dotnet](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/fbef1ecb-1e37-4000-b5ef-5732183f2bab)" alt="alt text" width="50" height="50">
 
 
 
