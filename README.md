@@ -38,7 +38,7 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 <br> STATS </br>
 
 ![Code Wars](https://www.codewars.com/users/BarbaraPorebska/badges/large)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BarbaraPorebsla&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BarbaraPorebska&theme=dark" alt="GitHub Streak" /></a>
 <!--
 **BarbaraPorebska/BarbaraPorebska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
