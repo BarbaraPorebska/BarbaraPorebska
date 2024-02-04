@@ -26,11 +26,11 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 
 
 <br> IDE </br>
-![brand-visualstudio](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/320d7182-547b-4c75-b418-65e94222b733)
+<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/320d7182-547b-4c75-b418-65e94222b733" alt="dotnet" width="50" height="50">
 
 <br> VERSION CONTROL </br>
 
-<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/320d7182-547b-4c75-b418-65e94222b733" alt="dotnet" width="50" height="50">
+
 
 
 <br> STATS </br>
