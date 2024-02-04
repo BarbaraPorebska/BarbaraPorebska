@@ -13,9 +13,8 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 <br><b>BACKEND</br>
 
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/e61bfe0c-0166-410b-a495-151110429ea0" alt="dotnet" width="50" height="50">
-<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/3a0cec06-b4e1-426d-b66e-d7889640b5d5" alt="javascript" width="50" height="50">
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/4e1288d9-1ef6-4266-be48-1f4b47dfd725" alt="postgresql" width="50" height="50">
-<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/3412f845-4cfd-4480-9df9-fc249001a70b" alt="postgresql" width="50" height="50">
+<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/3412f845-4cfd-4480-9df9-fc249001a70b" alt="csharp" width="50" height="50">
 
 
 
@@ -24,6 +23,7 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 
 
 <br> FRONTEND </br>
+<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/3a0cec06-b4e1-426d-b66e-d7889640b5d5" alt="javascript" width="50" height="50">
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/093a94ee-0c0e-4105-a6c0-1f490b1e2e18" alt="react" width="50" height="50">
 
 
