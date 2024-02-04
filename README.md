@@ -24,8 +24,7 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 
 
 <br> FRONTEND </br>
-
-
+<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/e61bfe0c-0166-410b-a495-151110429ea0" alt="react" width="50" height="50">
 
 <br> IDE </br>
 
