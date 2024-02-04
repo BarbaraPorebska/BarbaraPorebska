@@ -29,7 +29,7 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/320d7182-547b-4c75-b418-65e94222b733" alt="dotnet" width="50" height="50">
 
 <br> VERSION CONTROL </br>
-
+![gui-git](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/25a9533e-8973-47dd-a9d8-6fc96efa5072)
 
 
 
