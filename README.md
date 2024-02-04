@@ -32,6 +32,7 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/25a9533e-8973-47dd-a9d8-6fc96efa5072" alt="git" width="50" height="50">
 
 
+![pngwing com (27)](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/b29ff706-8a3f-4911-973f-ff8eb76c8f7f)
 
 <br> STATS </br>
 
