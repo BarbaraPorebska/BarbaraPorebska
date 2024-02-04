@@ -32,7 +32,7 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 
 <br> VERSION CONTROL </br>
 
-
+<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/4749201a-4214-4017-b8d0-c1caf4815f84" alt="dotnet" width="50" height="50">
 
 
 <br> STATS </br>
