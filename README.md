@@ -27,8 +27,6 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/093a94ee-0c0e-4105-a6c0-1f490b1e2e18" alt="react" width="50" height="50">
 
 
-![4691292_react native_react_icon]()
-
 <br> IDE </br>
 
 
