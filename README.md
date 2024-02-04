@@ -1,4 +1,3 @@
-
 <b> Hi there! </b> 
 
 My name is Barbara, I am from Warsaw, Poland.
@@ -27,8 +26,7 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 
 
 <br> IDE </br>
-![brand-visualstudio](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/320d7182-547b-4c75-b418-65e94222b733)![header](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/4749201a-4214-4017-b8d0-c1caf4815f84)
-
+![brand-visualstudio](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/320d7182-547b-4c75-b418-65e94222b733)
 
 <br> VERSION CONTROL </br>
 
