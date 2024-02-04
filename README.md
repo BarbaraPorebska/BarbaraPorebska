@@ -20,11 +20,13 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 
 
 
+
 <br> FRONTEND </br>
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/3a0cec06-b4e1-426d-b66e-d7889640b5d5" alt="javascript" width="50" height="50">
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/093a94ee-0c0e-4105-a6c0-1f490b1e2e18" alt="react" width="50" height="50">
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/c8546e09-54e8-4daf-824c-e2fe43a54038" alt="html" width="50" height="50">
 
+<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/9e4f02b3-77e2-45d3-ae9b-5cf098707826" alt="html" width="50" height="50">
 
 <br> IDE </br>
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/320d7182-547b-4c75-b418-65e94222b733" alt="visualstudio" width="50" height="50">
