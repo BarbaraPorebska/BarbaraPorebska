@@ -12,17 +12,10 @@ I would like to take part in projects related to C#, React and PostgreSQL.
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/265469ff-bba6-4a61-b3be-fc83422c6fb9" alt="dotnet" width="50" height="50">
 
 <br><b>BACKEND</br>
-
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/e61bfe0c-0166-410b-a495-151110429ea0" alt="dotnet" width="50" height="50">
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/4e1288d9-1ef6-4266-be48-1f4b47dfd725" alt="postgresql" width="50" height="50">
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/3412f845-4cfd-4480-9df9-fc249001a70b" alt="csharp" width="50" height="50">
-
-
-
-
-
-
-
+<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/279361bd-9c60-41ee-84e1-4cc4c44f5cbf" alt="python" width="50" height="50">
 
 
 <br> FRONTEND </br>
