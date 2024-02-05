@@ -1,3 +1,6 @@
+
+![header](https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/6fd6666d-3099-4a2f-a230-eea388390aa3)
+
 <b> Hi there! </b> 
 
 My name is Barbara, I am from Warsaw, Poland.
