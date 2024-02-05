@@ -9,7 +9,6 @@ Currently, I am looking for a job as a Junior Full Stack Developer.
 
 I would like to take part in projects related to C#, React and PostgreSQL.
 
-<img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/265469ff-bba6-4a61-b3be-fc83422c6fb9" alt="dotnet" width="50" height="50">
 
 <br><b>BACKEND</br>
 <img src="https://github.com/BarbaraPorebska/BarbaraPorebska/assets/111875975/e61bfe0c-0166-410b-a495-151110429ea0" alt="dotnet" width="50" height="50">
